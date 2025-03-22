@@ -6,27 +6,27 @@ O frontend foi desenvolvido em Angular, enquanto o backend utiliza Node.js sem b
 
 Embora o sistema seja aberto ao público, o código-fonte não está disponível no GitHub, pois se trata de um projeto particular. Como há interação entre usuários externos, manter o código fechado aumenta a segurança da aplicação.
 
-### Tela inicial
+## Tela inicial
 <div>
   <img src="./imagens/tela-inicial.png" width="1024px" />
 </div>
 
-### Criando nova sessão..
+## Criando nova sessão..
 <div>
   <img src="./imagens/criando-nova-sessao.png" width="1024px" />
 </div>
 
-### Compartilhando sessão..
+## Compartilhando sessão..
 <div>
   <img src="./imagens/compartilhando-sessao.png" width="1024px" />
 </div>
 
-### Se juntando à sessão..
+## Se juntando à sessão..
 <div>
   <img src="./imagens/se-juntando-a-sessao.png" width="1024px" />
 </div>
 
-### Poker em progresso!
+## Poker em progresso!
 <div>
   <img src="./imagens/poker-em-progresso.png" width="1024px" />
 </div>
