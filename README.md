@@ -8,25 +8,25 @@ Embora o sistema seja aberto ao público, o código-fonte não está disponível
 
 ### Tela inicial
 <div>
-  <img src="./images/tela-inicial.png" width="600px" />
+  <img src="./imagens/tela-inicial.png" width="600px" />
 </div>
 
 ### Criando nova sessão..
 <div>
-  <img src="./images/criando-nova-sessao.png" width="600px" />
+  <img src="./imagens/criando-nova-sessao.png" width="600px" />
 </div>
 
 ### Compartilhando sessão..
 <div>
-  <img src="./images/compartilhando-sessao.png" width="600px" />
+  <img src="./imagens/compartilhando-sessao.png" width="600px" />
 </div>
 
 ### Se juntando à sessão..
 <div>
-  <img src="./images/se-juntando-a-sessao.png" width="600px" />
+  <img src="./imagens/se-juntando-a-sessao.png" width="600px" />
 </div>
 
 ### Poker em progresso!
 <div>
-  <img src="./images/poker-em-progresso.png" width="600px" />
+  <img src="./imagens/poker-em-progresso.png" width="600px" />
 </div>
